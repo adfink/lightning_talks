@@ -64,7 +64,7 @@ https://gist.github.com/tleskin/23e06e90a258a48f329e (SCREENCAST)
 * Tyler Graham - "Let's Start a Hedge Fund"
 * Morgan Miller
 * Drew Reynolds
-* Andrew Fink
+* Andrew Fink - Antifragilty
 * Justin Holmes
 * Kyle Henson
 * Vanessa Gomez
